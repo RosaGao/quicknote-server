@@ -2,32 +2,8 @@
 
 A simple note-taking application that uses browser local storage for persistence.
 
+Refactored to use own server. 
 
-## Run Locally
+The app is deployed on Heroku. 
 
-Clone the project
-
-```bash
-  git clone https://github.com/cs280fa21/quicknote-app-server
-```
-
-Go to the project directory
-
-```bash
-  cd quicknote-app-server
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-# quick-note-server
-# quicknote-server
-# quicknote-server
+The deployed version can be found here: https://quicknote-app-server.herokuapp.com/
